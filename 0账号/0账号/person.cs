@@ -8,5 +8,7 @@ namespace _0账号
 {
     class person
     {
+        public string Name { get; set;}
+        public string Address { get; set; }
     }
 }
