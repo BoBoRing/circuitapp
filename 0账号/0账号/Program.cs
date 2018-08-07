@@ -10,6 +10,7 @@ namespace _0账号
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("这是第二个分支");
         }
     }
 }
